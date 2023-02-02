@@ -1,4 +1,7 @@
 # Banco App para Android
+O aplicativo foi feito usando de base a vídeo-aula no YouTube [CRIANDO UM APP DE CAIXA ELETRÔNICO](https://www.youtube.com/watch?v=SOh-qoBOmVo&list=PLizN3WA8HR1zRVd-hATWHtEageHJ5XpCR&index=27&ab_channel=StackMobile) do canal [Stack Mobile](https://www.youtube.com/@StackMobile).
+
+
 Este é um aplicativo de banco para Android que permite aos usuários sacar e depositar fundos em sua conta. O aplicativo é escrito em Java.
 
 ## Recursos
